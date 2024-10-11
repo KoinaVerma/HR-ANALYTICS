@@ -11,6 +11,11 @@ In this article, I explore HR analytics by analyzing workforce diversity and tur
 
 Let’s dive into the project.
 
+### TABLE OF CONTENT
+
+- [Project overview](#project-overview)
+- [
+
 ### PROJECT OVERVIEW
 
 In this project, I represent a fictional company aiming to boost workplace diversity and improve employee retention. To reach these objectives, HR executives need insights into employees' demographics and turnover trends from recent years. Here are the key questions and metrics they’re focused on:
