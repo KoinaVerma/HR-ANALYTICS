@@ -423,5 +423,5 @@ Here are a few recommendations that will help the company to increase employee d
 
 ### Note:
    
-
+In the analysis, the job title **"Office Assistant II"** was excluded from the visualization of the top 10 highest turnover rates. This position had a 100% turnover rate, as it was held by a single employee who left the company. To maintain the accuracy and relevance of the analysis, I focused on job titles with multiple employees, ensuring the results reflect meaningful trends rather than isolated cases.
 
