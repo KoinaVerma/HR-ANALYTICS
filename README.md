@@ -14,7 +14,12 @@ Let’s dive into the project.
 ### TABLE OF CONTENT
 
 - [Project overview](#project-overview)
-- [
+- [Data Source](#data-source)
+- [Data Preparation](#data-preparation)
+- [Data Cleaning](#data-cleaning)
+- [Analysis](#analysis)
+- [Insights](#insights)
+- [Recommendations](#recommendations)
 
 ### PROJECT OVERVIEW
 
