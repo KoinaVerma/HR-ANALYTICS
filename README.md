@@ -413,6 +413,7 @@ I imported my data to **Power BI** for ease of communication. I grouped my findi
 <img width="576" alt="Employee Diversity Report " src="https://github.com/user-attachments/assets/76fd4fcf-08a8-49c5-b146-72a3922a6bb9">
 
 <br>
+<br>
 
 #### Employee Turnover
 
@@ -430,6 +431,7 @@ I imported my data to **Power BI** for ease of communication. I grouped my findi
 
 <img width="577" alt="Employee Turnover Dashboard" src="https://github.com/user-attachments/assets/0b185810-afdc-4819-bfe2-31466ecb9675">
 
+<br>
 <br>
 
 ### RECOMMENDATIONS
