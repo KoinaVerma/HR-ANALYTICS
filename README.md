@@ -43,9 +43,9 @@ Understanding the above metrics helps executives make data-driven decisions.
 
 ### DATA SOURCE
 
-•	MySQL - Data Cleaning, Data Analysis
+• **MySQL** - Data Cleaning, Data Analysis
 
-•	Power BI - Creating Reports
+• **Power BI** - Creating Reports
 
 This report will show you my interpretations and queries for each question. I will also provide some insights and recommendations based on my analysis.
 
