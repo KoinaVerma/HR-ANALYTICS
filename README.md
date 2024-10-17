@@ -1,7 +1,5 @@
 # HR ANALYTICS
 
-
-
 A company can enhance employee experience through **HR analytics**, which unlocks workforce potential. 
 
 But what is HR analytics?  
@@ -20,6 +18,8 @@ Let’s dive into the project.
 - [Analysis](#analysis)
 - [Insights](#insights)
 - [Recommendations](#recommendations)
+
+<br>
 
 ### PROJECT OVERVIEW
 
@@ -41,6 +41,8 @@ In this project, I represent a fictional company aiming to boost workplace diver
     
 Understanding the above metrics helps executives make data-driven decisions. 
 
+<br>
+
 ### DATA SOURCE
 
 • **MySQL** - Data Cleaning, Data Analysis
@@ -49,11 +51,15 @@ Understanding the above metrics helps executives make data-driven decisions.
 
 This report will show you my interpretations and queries for each question. I will also provide some insights and recommendations based on my analysis.
 
+<br>
+
 ### DATA PREPARATION
 
 I downloaded the dataset from Kaggle.com. The website has various fictitious datasets for data projects. I previewed the dataset in Excel Sheets to see the numbers of rows and columns. The dataset originally had 13 columns, 22214 rows, and consists of employees’ details from 2000 to 2020. I proceeded to import the data to MySQL by creating a database first, followed by creating a table for the data to get stored. 
 
 I created a table named **“hr”** within the project database. To do this, I utilized the Table Data Import Wizard feature, where I imported data from the Excel file. During the process, I mapped the columns from the Excel file to the corresponding fields in the table and assigned appropriate data types, such as VARCHAR for text fields and INT for numeric fields. This method helped me efficiently structure the data for subsequent analysis.
+
+<br>
 
 ### DATA CLEANING
 
@@ -179,6 +185,7 @@ WHERE birthdate >= '2060-01-01' AND birthdate < '2070-01-01';
 
 I will be working with **22214 rows** and **14 columns** throughout my analysis.
 
+<br>
 
 ### ANALYSIS
 
@@ -383,6 +390,8 @@ FROM (
 ORDER BY department;
 ```
 
+<br>
+
 ### INSIGHTS
 
 I imported my data to **Power BI** for ease of communication. I grouped my findings under Employee Diversity and Turnover rate.
@@ -399,9 +408,11 @@ I imported my data to **Power BI** for ease of communication. I grouped my findi
 
 - The **Engineering department** has the most employees. The company hired more **Research Assistant II** followed by **Business Analyst** and **Human Resources Analyst II**.
 
+<br>
 
 <img width="576" alt="Employee Diversity Report " src="https://github.com/user-attachments/assets/76fd4fcf-08a8-49c5-b146-72a3922a6bb9">
 
+<br>
 
 #### Employee Turnover
 
@@ -415,9 +426,11 @@ I imported my data to **Power BI** for ease of communication. I grouped my findi
 
 - **Non-conforming** employees have the highest turnover rate in **Research and Development** (20%), while **female** employees face notable turnover in **Legal** (15%) and Training (14%). **Male** turnover is relatively balanced across departments but peaks in **Auditing** (25%), indicating significant retention challenges in this department for male employees.
 
+<br>
 
 <img width="577" alt="Employee Turnover Dashboard" src="https://github.com/user-attachments/assets/0b185810-afdc-4819-bfe2-31466ecb9675">
 
+<br>
 
 ### RECOMMENDATIONS
 
@@ -428,6 +441,8 @@ Here are a few recommendations that will help the company to increase employee d
 2.	Create an enabling environment for employees to work remotely, hence employing more people living outside of Ohio. Ask questions like can fewer employees work from the headquarters? Employees can also be allowed to work hybrid.
   
 3.	The turnover rate has reduced over the years and this is impressive but there are positions with over 20% turnover rate. The company should have discussions with employees in those positions, conduct surveys to understand the factors influencing turnovers, and take actions.
+
+<br>
 
 ### Note:
    
