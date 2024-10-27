@@ -396,7 +396,7 @@ ORDER BY department;
 
 I imported my data to **Power BI** for ease of communication. I grouped my findings under Employee Diversity and Turnover rate.
 
-#### Employee Diversity
+#### ``Employee Diversity``
 
 - The total number of **Employees hired** from 2000 to 2020 is 18,285, out of which 13,710 work from the **headquarters**. This means that 25% of employees work **remotely**.
 
@@ -415,7 +415,7 @@ I imported my data to **Power BI** for ease of communication. I grouped my findi
 <br>
 <br>
 
-#### Employee Turnover
+#### ``Employee Turnover``
 
 - The number of Employees that have **left** the company between 2020 and now is 3,929. The **turnover rate** is 12%, which means that 12% of all employees hired have left the company.
 
