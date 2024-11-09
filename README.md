@@ -1,4 +1,4 @@
-# HR ANALYTICS
+# EMPLOEE INSIGHTS: ENHANCING RETENTION AND PERFORMANCE WITH HR ANALYTICS
 
 A company can enhance employee experience through **HR analytics**, which unlocks workforce potential. 
 
