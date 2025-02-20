@@ -12,7 +12,7 @@ Let’s dive into the project.
 ### TABLE OF CONTENT
 
 - [Project overview](#project-overview)
-- [Tools Used](#tools_used)
+- [Tools Used](#tools-used)
 - [Data Preparation](#data-preparation)
 - [Data Cleaning](#data-cleaning)
 - [Analysis](#analysis)
