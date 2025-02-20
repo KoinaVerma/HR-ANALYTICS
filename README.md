@@ -12,7 +12,7 @@ Let’s dive into the project.
 ### TABLE OF CONTENT
 
 - [Project overview](#project-overview)
-- [Data Source](#data-source)
+- [Tools Used](#tools_used)
 - [Data Preparation](#data-preparation)
 - [Data Cleaning](#data-cleaning)
 - [Analysis](#analysis)
@@ -43,7 +43,7 @@ Understanding the above metrics helps executives make data-driven decisions.
 
 <br>
 
-### DATA SOURCE
+### Tools Used
 
 • **MySQL** - Data Cleaning, Data Analysis
 
@@ -56,6 +56,16 @@ This report will show you my interpretations and queries for each question. I wi
 ### DATA PREPARATION
 
 I downloaded the dataset from Kaggle.com. The website has various fictitious datasets for data projects. I previewed the dataset in Excel Sheets to see the numbers of rows and columns. The dataset originally had 13 columns, 22214 rows, and consists of employees’ details from 2000 to 2020. I proceeded to import the data to MySQL by creating a database first, followed by creating a table for the data to get stored. 
+
+<br>
+
+Here's a quick look of the data:
+<br>
+
+![Screenshot 2025-02-20 202712](https://github.com/user-attachments/assets/2cb5794d-3869-4b17-8d28-76f7e403a33e)
+
+
+<br>
 
 I created a table named **“hr”** within the project database. To do this, I utilized the Table Data Import Wizard feature, where I imported data from the Excel file. During the process, I mapped the columns from the Excel file to the corresponding fields in the table and assigned appropriate data types, such as VARCHAR for text fields and INT for numeric fields. This method helped me efficiently structure the data for subsequent analysis.
 
