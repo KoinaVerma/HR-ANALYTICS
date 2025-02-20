@@ -280,7 +280,8 @@ SELECT jobtitle, count(*) AS count
 FROM hr
 WHERE termdate = '0000-00-00'
 GROUP BY jobtitle
-ORDER BY jobtitle DESC;
+ORDER BY jobtitle DESC
+Limit 10;
 ```
 
 #### Turnover rate in each Department
@@ -398,7 +399,7 @@ I imported my data to **Power BI** for ease of communication. I grouped my findi
 
 #### ``Employee Diversity``
 
-- The total number of **Employees hired** from 2000 to 2020 is 18,285, out of which 13,710 work from the **headquarters**. This means that 25% of employees work **remotely**.
+- The total number of **Current Employees** in the company from 2000 to 2020 is 18,285, out of which 13,710 work from the **headquarters**. This means that 25% of employees work **remotely**.
 
 - 51.01% of people hired are **Male**, 46.24% **female**, and 2.75% non-conforming. The company has more employees between the ages of **30 to 49**.
 
